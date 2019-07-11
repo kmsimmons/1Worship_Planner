@@ -1,9 +1,11 @@
 import React from 'react';
 
+
 function LandingPage() {
+
     return (
         <div>
-            Worship Planner!!!!
+            Landing Page
         </div>
     )
 }
