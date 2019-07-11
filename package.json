@@ -33,5 +33,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "**Starting front end the app**",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.programination.com/worshipplanner/web.git"
+  },
+  "author": "",
+  "license": "ISC"
 }
